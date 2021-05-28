@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghavkaushik25
 - 👀 I’m interested in Network Security 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning a lot of things
 - 💞️ I’m looking to collaborate on New project related to network sec
 - 📫 How to reach me raghavkaushik25@gmail.com
 
